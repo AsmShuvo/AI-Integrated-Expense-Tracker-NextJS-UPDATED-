@@ -51,7 +51,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 npm i
 ```
-# At the root of the project folder, create a file named `.env` and paste the following
+### At the root of the project folder, create a file named `.env` and paste the following
 ```
 DATABASE_URL = postgresql://neondb_owner:npg_yXsHVNBD7hd9@ep-odd-star-a82kvcdv-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bmVhdC1tdXNrcmF0LTI1LmNsZXJrLmFjY291bnRzLmRldiQ
@@ -65,13 +65,13 @@ OPENROUTER_API_KEY = sk-or-v1-2a8fdde970ca04079abe0ceddcbf0154bd28255ac40460baf8
 NEXT_PUBLIC_APP_URL = http://localhost:3000/
 ```
 
-# Generate Prisma client
+### Generate Prisma client
 
 ```
 npx prisma generate
 ```
 
-# Run the development server
+### Run the development server
 ```
 npm run dev
 ```
