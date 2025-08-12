@@ -50,7 +50,7 @@ Designed with **Tailwind CSS v4**, secured with **Clerk authentication**, and po
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 npm i
-
+```
 # At the root of the project folder, create a file named `.env` and paste the following
 ```
 DATABASE_URL = postgresql://neondb_owner:npg_yXsHVNBD7hd9@ep-odd-star-a82kvcdv-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require
