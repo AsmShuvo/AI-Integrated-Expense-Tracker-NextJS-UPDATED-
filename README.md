@@ -47,8 +47,8 @@ Designed with **Tailwind CSS v4**, secured with **Clerk authentication**, and po
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/AsmShuvo/AI-Integrated-Expense-Tracker-NextJS-UPDATED-.git
+cd AI-Integrated-Expense-Tracker-NextJS-UPDATED-
 npm i
 ```
 ### At the root of the project folder, create a file named `.env` and paste the following
