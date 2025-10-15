@@ -53,15 +53,15 @@ npm i
 ```
 ### At the root of the project folder, create a file named `.env` and paste the following
 ```
-DATABASE_URL = postgresql://neondb_owner:npg_yXsHVNBD7hd9@ep-odd-star-a82kvcdv-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bmVhdC1tdXNrcmF0LTI1LmNsZXJrLmFjY291bnRzLmRldiQ
-CLERK_SECRET_KEY=sk_test_2EaCkGlnTiSMsFv4bUKzwOF0aoU3VOPwCHKkAYODlr
+DATABASE_URL = postgresql://neondb_owner:<Your UrL here>
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<your key here>
+CLERK_SECRET_KEY=<your secret key here>
 
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
 NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
 
-OPENROUTER_API_KEY = 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
+OPENROUTER_API_KEY = <your open API key here>
 NEXT_PUBLIC_APP_URL = http://localhost:3000/
 ```
 
