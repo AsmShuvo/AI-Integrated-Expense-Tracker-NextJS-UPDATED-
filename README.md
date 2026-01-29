@@ -1,4 +1,5 @@
-# 📊 Track Expense AI with Next.js
+# 📊 Track Expense AI with Next.js 
+### Live Link: https://ai-integrated-expense-tracker-next.vercel.app/
 
 A **full-stack AI-powered expense tracker** built with **Next.js** that helps you track daily expenses seamlessly while providing intelligent insights.  
 Designed with **Tailwind CSS v4**, secured with **Clerk authentication**, and powered by **OpenAI** for smart expense categorization and analysis.
